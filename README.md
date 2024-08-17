@@ -90,9 +90,9 @@
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-----	
-
-[![Dharma Teja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharmateja522&theme=github	)](https://github.com/dharmateja522/github-readme-activity-graph)
+----
+	
+[![Dharma Teja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharmateja522&theme=github)](https://github.com/dharmateja522/github-readme-activity-graph)
 
 </details>
 
