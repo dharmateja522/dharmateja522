@@ -106,4 +106,39 @@
 	
 </details>
 	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/dharmateja522/DS-Portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=DS-Portfolio&theme=tokyonight" alt="GitHere's the continuation and completion of the README template for your GitHub profile:
+
+```markdown
+	<a href="https://github.com/dharmateja522/DS-Portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=DS-Portfolio&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/dharmateja522/Pandas-Cookbook-Second-Edition">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Pandas-Cookbook-Second-Edition&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/dharmateja522/Data-Visualization">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Data-Visualization&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/dharmateja522/Sparkora">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Sparkora&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/dharmateja522/applied-ml">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=applied-ml&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+</br></br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/dharmateja522/dharmateja522/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
