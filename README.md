@@ -115,13 +115,9 @@
 	<a href="https://github.com/dharmateja522/DS-Portfolio">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=DS-Portfolio&theme=tokyonight" alt="DS Portfolio" />
     	</a>
-	  <a href="https://github.com/dharmateja522/Machine-Learning">
+	<a href="https://github.com/dharmateja522/Machine-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Machine-Learning&theme=tokyonight" alt="Machine Learning" />
 	</a>
- 	<a href="https://github.com/dharmateja522/NLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=NLP&theme=tokyonight" alt="NLP" />
-	</a>
-
 
 	<a href="https://github.com/dharmateja522/Pandas-Cookbook-Second-Edition">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Pandas-Cookbook-Second-Edition&theme=tokyonight" alt="Pandas Cookbook Second Edition" />
