@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
-- :office: Data Analyst at Sagility, Bangalore
+- :office: Senior Data Analyst at Sagility, Bangalore
 - :trophy: AWS Certified Machine Learning Specialist
 - :technologist: Enthusiastic about using data and AI to solve real-world problems
 - :computer: Experienced in Python, SQL, and cloud platforms
