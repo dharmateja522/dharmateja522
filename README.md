@@ -106,7 +106,8 @@
 	
 </details>
 
-![Uploading image.png…]()
+[![Dharma Teja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharmateja522&theme=github)](https://github.com/dharmateja522/github-readme-activity-graph)
+
 
 
 
