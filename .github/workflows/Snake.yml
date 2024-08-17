@@ -24,9 +24,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push the Snake SVG
-        uses: peaceiris/actions-gh-pages@v3.8.0
+      - name: Create Output Directory
+        run: mkdir -p output
+
+      - name: Move Snake SVG to Output Directory
+        run: mv dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+
+      - name: Push the Snake SVG to the output branch
+        uses: actions/upload-artifact@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          destination_dir: output
+          name: github-contribution-grid-snake
+          path: output/github-contribution-grid-snake.svg
