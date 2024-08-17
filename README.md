@@ -99,12 +99,14 @@
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmateja522&theme=flat&no-bg=true&margin-w=15&margin-h=15" alt="Dharma Teja" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmateja522&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Dharma Teja" /></a> </p>
 
 [![@dharmateja522's Holopin board](https://holopin.io/api/user/board?user=dharmateja522)](https://holopin.io/@dharmateja522)
-	
-</details>
+
+</details
+![Uploading image.png…]()
+
 
 
 	
