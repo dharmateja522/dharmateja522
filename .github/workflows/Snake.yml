@@ -27,6 +27,9 @@ jobs:
       - name: Ensure Output Directory Exists
         run: mkdir -p output
 
+      - name: Change permissions for the dist directory
+        run: chmod -R 777 dist
+
       - name: Move Snake SVG to Output Directory
         run: mv dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
 
@@ -38,3 +41,4 @@ jobs:
           git add output/github-contribution-grid-snake.svg
           git commit -m "Generate and push snake SVG"
           git push -f origin output
+
