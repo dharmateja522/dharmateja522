@@ -127,6 +127,10 @@
     	<a href="https://github.com/dharmateja522/applied-ml">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=applied-ml&theme=tokyonight" alt="Applied ML" />
     	</a>
+	  <a href="https://github.com/dharmateja522/Data-Science-Cheetsheets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Data-Science-Cheetsheets&theme=tokyonight" alt="Data Science Cheatsheets" />
+	</a>
+
   </p>
 </div>
 </details>
