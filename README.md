@@ -106,10 +106,6 @@
 	
 </details>
 
-[![Dharma Teja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharmateja522&theme=github)](https://github.com/dharmateja522/github-readme-activity-graph)
-
-
-
 
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
