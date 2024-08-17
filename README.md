@@ -113,26 +113,23 @@
 <div>
   <p align="center">
 	<a href="https://github.com/dharmateja522/DS-Portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=DS-Portfolio&theme=tokyonight" alt="GitHere's the continuation and completion of the README template for your GitHub profile:
-
-```markdown
-	<a href="https://github.com/dharmateja522/DS-Portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=DS-Portfolio&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=DS-Portfolio&theme=tokyonight" alt="DS Portfolio" />
     	</a>
 	<a href="https://github.com/dharmateja522/Pandas-Cookbook-Second-Edition">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Pandas-Cookbook-Second-Edition&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Pandas-Cookbook-Second-Edition&theme=tokyonight" alt="Pandas Cookbook Second Edition" />
     	</a>
     	<a href="https://github.com/dharmateja522/Data-Visualization">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Data-Visualization&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Data-Visualization&theme=tokyonight" alt="Data Visualization" />
     	</a>
     	<a href="https://github.com/dharmateja522/Sparkora">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Sparkora&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=Sparkora&theme=tokyonight" alt="Sparkora" />
     	</a>
     	<a href="https://github.com/dharmateja522/applied-ml">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=applied-ml&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmateja522&repo=applied-ml&theme=tokyonight" alt="Applied ML" />
     	</a>
   </p>
 </div>
 </details>
+
 
 </br></br>
