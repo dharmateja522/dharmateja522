@@ -24,12 +24,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      - name: Ensure Output Directory Exists
+        run: mkdir -p output
+
+      - name: Move Snake SVG to Output Directory
+        run: mv dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+
       - name: Push the Snake SVG to the output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git checkout -B output
-          mv dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
           git add output/github-contribution-grid-snake.svg
           git commit -m "Generate and push snake SVG"
           git push -f origin output
