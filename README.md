@@ -36,17 +36,30 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.python.org/" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a> 
+  <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a> 
   &emsp;
-  <a href="https://www.sql.com/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23007396.svg?style=plastic&logo=sql&logoColor=white">
-  </a> 
+  <a href="https://www.sql.com/" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23007396.svg?style=plastic&logo=sql&logoColor=white"></a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+	<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
+  &emsp;
+	<a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
+&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+	&emsp;
+	<a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
+&emsp;
+<a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
+	&emsp;
+<a href="https://scikit-learn.org/" target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn%20-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white"></a>
+&emsp;
+<a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%230000FF.svg?style=plastic&logo=matplotlib&logoColor=white"></a>
+&emsp;
+<a href="https://seaborn.pydata.org/" target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23007396.svg?style=plastic&logo=seaborn&logoColor=white"></a>
+&emsp;
+<a href="https://opencv.org/" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-%23FF9933.svg?style=plastic&logo=opencv&logoColor=white"></a>
+&emsp;
+<a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"><img alt="VBA" src="https://img.shields.io/badge/VBA%20-%23649A44.svg?style=plastic&logo=microsoft&logoColor=white"></a>
+&emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Software_Tools.gif" width = 50px>  </picture> Software & Tools
@@ -59,9 +72,15 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"> <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?style=plastic&logo=flask&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
+    <!--<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>-->
+	<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+	<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+  &emsp;
+	<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%2300A300.svg?style=plastic&logo=microsoft-excel&logoColor=white"></a>
+
 </p>
 
 ## <picture> <img src = "https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Statistics.gif" width = 50px>  </picture> Github Stats
