@@ -13,13 +13,13 @@
 
 <picture> <img align="right" src="https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
-- :office: Senior Data Analyst at Sagility, Bangalore
-- :trophy: AWS Certified Machine Learning Specialist
-- :technologist: Enthusiastic about using data and AI to solve real-world problems
-- :computer: Experienced in Python, SQL, and cloud platforms
-- :student: Always learning new technologies and methodologies in data science
-- :thinking: Open to new opportunities in data science and cloud computing
-- :boom: Check out my [LinkedIn](https://www.linkedin.com/in/dharma-teja-singampalli-a06916110)
+- :office: **Senior Data Analyst** at Sagility, Bangalore
+- :trophy: **AWS Certified Machine Learning Specialist**
+- :computer: **Experienced in:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), SQL, VBA, Regular Expressions | **Data Analysis:** Data Cleaning, Visualization, EDA, Predictive Modelling, Regression Analysis, Hypothesis Testing | **Machine Learning & NLP:** Supervised Learning, Unsupervised Learning, NLP | **Tools & Databases:** MySQL, PostgreSQL, AWS, Excel
+- :technologist: **Passionate** about using data and AI to solve real-world problems
+- :student: **Always learning** new technologies and methodologies in data science
+- :thinking: **Open to new opportunities** in data science and cloud computing
+- :boom: **Check out my** [LinkedIn](https://www.linkedin.com/in/dharma-teja-singampalli-a06916110)
 
 <br>
 
