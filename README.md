@@ -83,6 +83,11 @@
 
 </p>
 
+### <picture> <img src = "https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Software_Tools.gif" width = 50px>  </picture> Professional Level Certifications
+<p>
+	![AWS Certified Machine Learning Badge](https://github.com/dharmateja522/dharmateja522/assets/aws-certified-machine-learning-badge.png)
+</p>
+
 ## <picture> <img src = "https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Statistics.gif" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
