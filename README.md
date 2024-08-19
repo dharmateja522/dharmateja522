@@ -143,9 +143,9 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/dharmateja522/dharmateja522/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
+# <p align = "center">
+	![snake gif](https://github.com/dharmateja522/dharmateja522/blob/output/github-contribution-grid-snake.gif)
+# </p>
 
 
 </br></br>
