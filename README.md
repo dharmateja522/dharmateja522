@@ -84,9 +84,13 @@
 </p>
 
 ### <picture> <img src = "https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Software_Tools.gif" width = 50px>  </picture> Professional Level Certifications
-<p>
-	<!--![AWS Certified Machine Learning Badge](https://github.com/dharmateja522/dharmateja522/blob/305484056de242bd4c951b87647223f3e81dc180/assets/aws-certified-machine-learning-specialty.png)-->
+
+<!--![AWS Image](https://github.com/dharmateja522/dharmateja522/blob/6a6c31d24396aa67bd38f7463a670b99cc10f90c/assets/aws-certified-machine-learning-specialty.png)-->
+<p align="center">
+  <img src="https://github.com/dharmateja522/dharmateja522/blob/6a6c31d24396aa67bd38f7463a670b99cc10f90c/assets/aws-certified-machine-learning-specialty.png" alt="AWS Image"/>
 </p>
+
+
 
 ## <picture> <img src = "https://github.com/dharmateja522/dharmateja522/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Statistics.gif" width = 50px>  </picture> Github Stats
 
