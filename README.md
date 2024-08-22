@@ -15,7 +15,7 @@
 
 - :office: **Senior Data Analyst** at Sagility, Bangalore
 - :trophy: **AWS Certified Machine Learning Specialist**
-- :computer: **Experienced in:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), SQL, VBA, Regular Expressions | **Data Analysis:** Data Cleaning, Visualization, EDA, Predictive Modelling, Regression Analysis, Hypothesis Testing | **Machine Learning & NLP:** Supervised Learning, Unsupervised Learning, NLP | **Tools & Databases:** MySQL, PostgreSQL, AWS, Excel
+- :computer: **Experienced in:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), SQL, VBA, Regular Expressions, HTML, CSS, JavaScript | **Data Analysis:** Data Cleaning, Visualization, EDA, Predictive Modelling, Regression Analysis, Hypothesis Testing | **Machine Learning & NLP:** Supervised Learning, Unsupervised Learning, NLP | **Tools & Databases:** MySQL, PostgreSQL, AWS, Excel, Flask
 - :technologist: **Passionate** about using data and AI to solve real-world problems
 - :student: **Always learning** new technologies and methodologies in data science
 - :thinking: **Open to new opportunities** in data science and cloud computing
