@@ -89,6 +89,9 @@
 <p align="center">
   <img src="https://github.com/dharmateja522/dharmateja522/blob/6a6c31d24396aa67bd38f7463a670b99cc10f90c/assets/aws-certified-machine-learning-specialty.png" alt="AWS Image"/>
 </p>
+<p align="center">
+  <a href="https://www.credly.com/badges/28f49980-0187-4d59-a03a-610f130117d2" target="_blank">Check out the AWS Certification</a>
+</p>
 
 
 
